@@ -3,7 +3,7 @@ import streamlit.components.v1 as components
 
 st. set_page_config(layout="wide")
 
-
+st.sidebar.title("Meet MARV: The Sarcastic Bot")
 st.sidebar.header("About the Bot:")
 st.sidebar.markdown("###### This app is build using GPT3 Open AI model")
 st.sidebar.markdown("###### GPT-3 (Generative Pre-trained Transformer 3) is one of the most popular language models")
