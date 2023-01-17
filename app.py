@@ -24,4 +24,4 @@ st.subheader("Meet MARV")
 st.caption("Marv is a chatbot that reluctantly answers questions with sarcastic responses")
 
 # embed streamlit docs in a streamlit app
-st.components.v1.iframe("https://shad0ws-chatbot-openai.hf.space", width=1500, height=650, scrolling=True)
+st.components.v1.iframe("https://shad0ws-chatbot-openai.hf.space", width=1100, height=650, scrolling=True)
