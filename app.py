@@ -3,7 +3,7 @@ import streamlit.components.v1 as components
 
 st. set_page_config(layout="wide")
 
-st.title("MARV: The Sarcastic Bot")
+
 st.sidebar.header("About the Bot:")
 st.sidebar.markdown("###### This app is build using GPT3 Open AI model")
 st.sidebar.markdown("###### GPT-3 (Generative Pre-trained Transformer 3) is one of the most popular language models")
@@ -20,7 +20,7 @@ st.sidebar.image("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Open
 
 st.sidebar.caption("App developed by </Shahnab>")
 
-st.subheader("Meet MARV")
+st.title("Meet MARV: The Sarcastic Bot")
 st.caption("Marv is a chatbot that reluctantly answers questions with sarcastic responses")
 
 # embed streamlit docs in a streamlit app
