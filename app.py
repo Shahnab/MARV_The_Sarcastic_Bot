@@ -3,6 +3,7 @@ import streamlit.components.v1 as components
 
 st. set_page_config(layout="wide")
 
+st.sidebar.image("https://cdn-icons-png.flaticon.com/512/1791/1791365.png", width=150)
 st.sidebar.title("Meet MARV: The Sarcastic Bot")
 st.sidebar.header("About the Bot:")
 st.sidebar.markdown("###### This app is build using GPT3 Open AI model")
