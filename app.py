@@ -3,6 +3,13 @@ import streamlit.components.v1 as components
 
 st. set_page_config(layout="wide")
 
+col1, mid, col2= st.columns([1,1,20])
+with col1:
+    st.image("https://cdn-icons-png.flaticon.com/512/1791/1791365.png", width=70)
+with col2:
+    st.markdown("# Meet MARV: The Sarcastic Bot")
+st.markdown("###### Interface")
+
 # st.sidebar.image("https://cdn-icons-png.flaticon.com/512/1791/1791365.png", width=150)
 # st.sidebar.title("Meet MARV: The Sarcastic Bot")
 # st.sidebar.header("About the Bot:")
