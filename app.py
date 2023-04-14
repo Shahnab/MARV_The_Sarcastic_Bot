@@ -8,7 +8,6 @@ with col1:
     st.image("https://cdn-icons-png.flaticon.com/512/1791/1791365.png", width=70)
 with col2:
     st.markdown("# Meet MARV: The Sarcastic Bot")
-st.markdown("###### Interface")
 
 # st.sidebar.image("https://cdn-icons-png.flaticon.com/512/1791/1791365.png", width=150)
 # st.sidebar.title("Meet MARV: The Sarcastic Bot")
