@@ -32,5 +32,5 @@ with col2:
 # embed streamlit docs in a streamlit app
 st.components.v1.iframe("https://ora.sh/embed/6f03b2ab-5de2-4189-bb23-c6bad5d90f82", width=1500, height=550, scrolling=True)
 
-st.caption("Powered by")
-st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1280px-OpenAI_Logo.svg.png", width=50)
+# st.caption("Powered by")
+# st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1280px-OpenAI_Logo.svg.png", width=50)
